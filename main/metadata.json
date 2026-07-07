@@ -1,6 +1,0 @@
-{
-  "name": "Analizzatore Estetico IA",
-  "description": "Un'applicazione minimalista per estetiste per analizzare viso e corpo tramite l'intelligenza artificiale di Gemini.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
